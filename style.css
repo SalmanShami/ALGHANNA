@@ -84,7 +84,7 @@ body {
     justify-content: center;
     text-align: center;
     background: linear-gradient(45deg, rgba(31, 58, 104, 0.5) 0%, rgba(39, 100, 198, 0.5) 100%),
-    url(/images/مكة.jpeg);
+    url(images/مكة.jpeg);
     background-position: center;
     background-size: cover;
     
